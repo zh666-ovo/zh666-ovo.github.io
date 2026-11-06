@@ -2,7 +2,7 @@ title: My Learning Blog
 description: Recording my journey in Computer Science
 author: MyName
 
-url: ""
+url: "https://zh666-ovo.github.io"
 baseurl: ""
 
 markdown: kramdown
@@ -10,6 +10,7 @@ permalink: /:categories/:year/:month/:day/:title/
 
 timezone: Asia/Shanghai
 future: true
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
