@@ -1,0 +1,20 @@
+title: My Learning Blog
+description: Recording my journey in Computer Science
+author: MyName
+
+url: ""
+baseurl: ""
+
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
+
+timezone: Asia/Shanghai
+future: true
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - build_blog.sh

@@ -1,0 +1,21 @@
+# Jekyll generated site
+_site/
+
+# Ruby dependencies
+vendor/
+.bundle/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.swp
+*.swo
+*~
+s.sh
